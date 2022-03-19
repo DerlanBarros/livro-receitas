@@ -6,3 +6,4 @@
 - ver muitas opções
 - aguarde
 - pave
+- canela
