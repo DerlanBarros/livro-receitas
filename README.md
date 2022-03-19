@@ -5,5 +5,6 @@
 - vamos aos pontos
 - ver muitas opções
 - aguarde
-- pave
 - canela
+- pavê
+- pão
